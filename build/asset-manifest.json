@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18f094ff.css",
+    "main.js": "/static/js/main.169c9ee3.js",
+    "static/js/787.aff79cd9.chunk.js": "/static/js/787.aff79cd9.chunk.js",
+    "static/media/Img1Wix.webp": "/static/media/Img1Wix.50232da185a8dae57d6e.webp",
+    "static/media/primeicons.svg": "/static/media/primeicons.e1441b135b3ca9ad643c.svg",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/static/media/Inter-italic.var.30807be7abc48ba8c73c.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/static/media/Inter-roman.var.ba4caefcdf5b36b438db.woff2",
+    "static/media/sobre-background.png": "/static/media/sobre-background.3dd80ab3bd5d9ebfefd4.png",
+    "static/media/primeicons.eot": "/static/media/primeicons.d44157bdfa026dc877af.eot",
+    "static/media/primeicons.woff": "/static/media/primeicons.10d3152104f2208ac82a.woff",
+    "static/media/primeicons.ttf": "/static/media/primeicons.ea5358601d0a3fd6670b.ttf",
+    "static/media/usuarioPadrao.png": "/static/media/usuarioPadrao.178d03ca67101f0d7a78.png",
+    "static/media/primeicons.woff2": "/static/media/primeicons.78172950b335ccdb94e2.woff2",
+    "static/media/img2Wix.webp": "/static/media/img2Wix.c671f5adba840beb3c46.webp",
+    "static/media/img2_1Wix.webp": "/static/media/img2_1Wix.06aa98410325ef1452b0.webp",
+    "static/media/imgSobre.png": "/static/media/imgSobre.c782a9878e6a96d3fb51.png",
+    "index.html": "/index.html",
+    "main.18f094ff.css.map": "/static/css/main.18f094ff.css.map",
+    "main.169c9ee3.js.map": "/static/js/main.169c9ee3.js.map",
+    "787.aff79cd9.chunk.js.map": "/static/js/787.aff79cd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18f094ff.css",
+    "static/js/main.169c9ee3.js"
+  ]
+}
